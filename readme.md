@@ -1,7 +1,7 @@
 # New Relic Terraform Example
 
-This code accompanies my introductory screencast for managing New Relic resources with terraform.
-Check out the video here: [TBC]
+This code accompanies the introductory screencast for managing New Relic resources with terraform.
+Check out the video [here](https://developer.newrelic.com/automate-workflows/get-started-terraform/)
 
 Here are some links to documentation used in the video:
 
